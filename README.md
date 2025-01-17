@@ -6,7 +6,7 @@
 - **Optional Class**: Helps handle null values gracefully.
 - **Default Methods**: Allow methods in interfaces to have an implementation.
 - **Date and Time API (java.time)**: A modern date and time API inspired by Joda-Time.
-- **Nashorn JavaScript Engine**: A new lightweight JavaScript engine.
+- **Nashorn JavaScript Engine**: A new lightweight JavaScript engine. - Deprecated in JAVA 11
 - **CompletableFuture**: Enhancements in concurrency APIs.
 - **Annotations on Types**: Extended use of annotations to types.
 - **Permanent Generation Removal**: Replaced by metaspace for better memory management.
